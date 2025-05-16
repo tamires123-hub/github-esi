@@ -1,7 +1,7 @@
 def sub(x, y):
     return x - y
 
-def soma(y, x):
+def sum(x, y):
     return x + y
 
 def div(x, y):
